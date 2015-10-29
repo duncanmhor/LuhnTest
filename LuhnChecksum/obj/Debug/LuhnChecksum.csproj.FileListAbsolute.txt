@@ -1,8 +1,0 @@
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\bin\Debug\LuhnChecksum.exe.config
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\bin\Debug\LuhnChecksum.exe
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\bin\Debug\LuhnChecksum.pdb
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\bin\Debug\CommandLine.dll
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\bin\Debug\CommandLine.xml
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\obj\Debug\LuhnChecksum.csprojResolveAssemblyReference.cache
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\obj\Debug\LuhnChecksum.exe
-c:\users\duncan\documents\visual studio 2015\Projects\LuhnChecksum\LuhnChecksum\obj\Debug\LuhnChecksum.pdb
